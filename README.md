@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Victor Hugo! 👋
 
-<!--
-**victorhugoguimaraes/victorhugoguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Tecnologias que mais uso:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-Here are some ideas to get you started:
+📊 **Estatísticas do GitHub**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoguimaraes&layout=compact&theme=dark)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Sobre mim**  
+- 🎓 Estudante de Engenharia de Redes na Universidade de Brasília  
+- 💻 Desenvolvedor **Full Stack**, programando em **Java, C++, Python e React**  
+- 🚀 Interessado em **IA, aprendizado de máquina e desenvolvimento web**  
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/victor-hugo-guimarães-nascimento/)  
