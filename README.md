@@ -9,8 +9,8 @@
 📊 **Estatísticas do GitHub**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoguimaraes&layout=compact&theme=dark)  
 
-💬 **Sobre mim**  
-- 🎓 Estudante de Engenharia de Redes na Universidade de Brasília  
-- 💻 Desenvolvedor **Full Stack**, programando em **Java/SpringBoot, C++, Python e JavaScript/React**  
-- 🚀 Interessado em na área de desenvolvimento  
-- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/victor-hugo-guimarães-nascimento/)  
+ **Sobre mim**  
+- Estudante de Engenharia de Redes na Universidade de Brasília  
+- Desenvolvedor **Full Stack**, programando em **Java/SpringBoot, C++, Python e JavaScript/React**  
+- Interessado em na área de desenvolvimento  
+- Me encontre no [LinkedIn](https://www.linkedin.com/in/victor-hugo-guimarães-nascimento/)  
