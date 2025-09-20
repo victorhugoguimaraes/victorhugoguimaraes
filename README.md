@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Hugo! 👋
+# Olá, eu sou o Victor Hugo! 
 
 🔧 **Tecnologias que mais uso:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
