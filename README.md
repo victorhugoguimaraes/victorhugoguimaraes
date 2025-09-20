@@ -12,5 +12,5 @@
 💬 **Sobre mim**  
 - 🎓 Estudante de Engenharia de Redes na Universidade de Brasília  
 - 💻 Desenvolvedor **Full Stack**, programando em **Java/SpringBoot, C++, Python e JavaScript/React**  
-- 🚀 Interessado em **Desenvolvimento**  
+- 🚀 Interessado em na área de desenvolvimento  
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/victor-hugo-guimarães-nascimento/)  
