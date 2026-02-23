@@ -34,7 +34,7 @@ Sistema de recomendação híbrido construído com dados reais do Letterboxd. Co
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoguimaraes&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoguimaraes&layout=compact&theme=dark&cache_seconds=1800)
 
 
 ---
