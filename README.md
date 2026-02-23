@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Hugo! 👋
+# Olá, eu sou o Victor Hugo!
 
 Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em Data Science, porém com projetos de Desenvolvimento. Atualmente explorando a interseção entre engenharia de software e análise de dados.
 
