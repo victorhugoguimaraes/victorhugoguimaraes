@@ -1,10 +1,18 @@
 # Olá, eu sou o Victor Hugo! 👋
 
-Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em desenvolvimento Full Stack e Data Science. Atualmente explorando a interseção entre engenharia de software e análise de dados.
+Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em Data Science, porém com projetos de Desenvolvimento. Atualmente explorando a interseção entre engenharia de software e análise de dados.
 
 ---
 
 ## 🛠️ Tecnologias
+
+**Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 **Desenvolvimento**
 
@@ -14,13 +22,6 @@ Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em d
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 ---
 
 ## 📌 Projeto em Destaque
@@ -29,13 +30,6 @@ Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em d
 Sistema de recomendação híbrido construído com dados reais do Letterboxd. Combina **TF-IDF**, **similaridade de cosseno** e **score de qualidade** para recomendar filmes com precisão a partir de um banco SQLite de 72k filmes pré-processados.
 
 👉 [Ver projeto](https://github.com/victorhugoguimaraes/recomendador-filmes-letterboxd) • [Demo ao vivo](https://share.streamlit.io)
-
----
-
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoguimaraes&layout=compact&theme=dark&cache_seconds=1800)
-
 
 ---
 
