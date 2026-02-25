@@ -4,7 +4,7 @@ Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em D
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Data Science**
 
@@ -24,15 +24,8 @@ Estudante de **Engenharia de Redes** na Universidade de Brasília, com foco em D
 
 ---
 
-## 📌 Projeto em Destaque
 
-### 🎬 Recomendador de Filmes — Letterboxd
-Sistema de recomendação híbrido construído com dados reais do Letterboxd. Combina **TF-IDF**, **similaridade de cosseno** e **score de qualidade** para recomendar filmes com precisão a partir de um banco SQLite de 72k filmes pré-processados.
 
-👉 [Ver projeto](https://github.com/victorhugoguimaraes/recomendador-filmes-letterboxd) • [Demo ao vivo](https://share.streamlit.io)
-
----
-
-## 📬 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-guimarães-nascimento/)
